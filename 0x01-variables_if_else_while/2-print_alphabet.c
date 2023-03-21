@@ -2,7 +2,7 @@
 /**
  * main - this is the main function
  *
- * Reture: at all time 0 when successful
+ * Return: at all time 0 when successful
  */
 
 int main(void)
